@@ -22,6 +22,8 @@ Compilation of research projects that occupy the intersection of data science an
 
 * [Seeing Theory](https://seeing-theory.brown.edu) makes basic concepts of statistics (e.g., probability distributions, variance, linear models) more accessible through interactive visualizations.
 
+* [Explained Visually](http://setosa.io/ev/) allows interactive manipulation of datapoints to understand the interface between data and certain models (e.g., ordinary least squares, PCA, conditional probability).
+
 * Amelia McNamara's [Exploring Histograms](http://tinlizzie.org/histograms/) demonstrates how to visualize the mapping of raw data onto a histogram.
 
 * Nick Huntington-Klein's explanation of basic causal inference methods via causal graphs and corresponding [animated plots](http://nickchk.com/causalgraphs.html) that demonstrate what these causal methods do behind the scenes.
@@ -31,6 +33,16 @@ Compilation of research projects that occupy the intersection of data science an
 
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) is written by Philip Stark and emphasizes an intuitive approach of translating real-world situations into statistical constructs.
 
+## Programming tools
+
+* [ggplot2](https://ggplot2.tidyverse.org) is a graphing package for R developed by Hadley Wickham, based on the grammar of graphics, which makes aesthetically-pleasing and easy-to-manipulate graphics.
+
+* [MeterStick] provides a syntax to describe, construct, and execute data analysis tasks in Python, in a tidyverse-like style.
+
+* [Symbulate] is a Python package to simulate directly from user-specified probability models (as opposed to repeatedly-drawn datasets).
+
+* [nbinteract](https://www.samlau.me/projects/2017-09-01-nbinteract) enables easy creation of instructional interactive data science content within Jupyter notebooks, with minimal web-dev skills.
+
 
 ## Design of notation
-* Great overview [here](https://github.com/hypotext/notation).
+* Great overview of notational systems [here](https://github.com/hypotext/notation).

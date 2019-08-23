@@ -4,22 +4,14 @@ Compilation of research projects that occupy the intersection of data science an
 
 ## Automated analysis
 
-* [The Automatic Statistician](https://www.automaticstatistician.com/index/) attempts to fully automate the exploratory data analysis process. 
-
- It autogenerates 10-15 page [reports](https://www.automaticstatistician.com/examples/), with the ability to fit time-series and linear models, and to interpret these models.
+* [The Automatic Statistician](https://www.automaticstatistician.com/index/) generates 10-15 page [reports](https://www.automaticstatistician.com/examples/) that use Bayesian model selection strategies to automatically find time-series patterns or linear models, and to interpret them.
 
 
 ## Exploratory data analysis (EDA) helpers
 
-* [Statsplorer](https://hci.rwth-aachen.de/statsplorer) provides a friendly GUI with which non-coders and non-statistical experts can perform statistical analysis.
+* [Statsplorer](https://hci.rwth-aachen.de/statsplorer) provides a friendly GUI where non-coders and non-statistical experts can perform simple exploratory data analysis (e.g., histograms), with automatic detection for problematic data (e.g., outlier detection) and violated assumptions.
 
- It automates simple exploratory data analysis (e.g., histograms) and detects problematic data (e.g., outlier detection, testing which assumptions are held, and automatically suggesting tests that violate few assumptions).
-
-* [Facets](https://github.com/PAIR-code/facets) provides two interactive GUIs that provide visual exploration of the features of your dataset.  Developed by Google.
-
- Facets Overview generates summary statistics on the features of a dataset (e.g., count, \% missing, median, std dev).  
-
- Facets Dive enables a cross-sectional view of your data.  For example, for a Census dataset you can bucket people's ages into 5-year increments and then color it by the person's occupation in order to get a visual overview of how occupations change as people age.
+* [Facets](https://github.com/PAIR-code/facets) provides two interactive GUIs (Facets Overview and Facets Dive) to explore cross-sectional slices of your dataset.  Developed by Google.
 
 ## Model explorers
 
@@ -32,7 +24,7 @@ Compilation of research projects that occupy the intersection of data science an
 
 * Amelia McNamara's [Exploring Histograms](http://tinlizzie.org/histograms/) demonstrates how to visualize the mapping of raw data onto a histogram.
 
-* Nick Huntington-Klein's explanation of basic causal inference methods via causal graphs and corresponding [animated plots](http://nickchk.com/causalgraphs.html) that show what these causal methods do behind the scenes.
+* Nick Huntington-Klein's explanation of basic causal inference methods via causal graphs and corresponding [animated plots](http://nickchk.com/causalgraphs.html) that demonstrate what these causal methods do behind the scenes.
 
 ### Online statistics books
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) is the textbook for Berkeley's introductory Data 8 class, and is written in the Jupyter Book format.

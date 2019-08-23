@@ -37,9 +37,9 @@ Compilation of research projects that occupy the intersection of data science an
 
 * [ggplot2](https://ggplot2.tidyverse.org) is a graphing package for R developed by Hadley Wickham, based on the grammar of graphics, which makes aesthetically-pleasing and easy-to-manipulate graphics.
 
-* [MeterStick] provides a syntax to describe, construct, and execute data analysis tasks in Python, in a tidyverse-like style.
+* [MeterStick](https://github.com/google/meterstick) provides a syntax to describe, construct, and execute data analysis tasks in Python, in a tidyverse-like style.
 
-* [Symbulate] is a Python package to simulate directly from user-specified probability models (as opposed to repeatedly-drawn datasets).
+* [Symbulate](https://dlsun.github.io/symbulate/index.html) is a Python package to simulate directly from user-specified probability models (as opposed to repeatedly-drawn datasets).
 
 * [nbinteract](https://www.samlau.me/projects/2017-09-01-nbinteract) enables easy creation of instructional interactive data science content within Jupyter notebooks, with minimal web-dev skills.
 
